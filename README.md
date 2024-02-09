@@ -1,3 +1,6 @@
+
+[ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 👋 Hello I'm Sangita Majumder
 - 🔭 I’m interested Data Analyst , Data Engineering
 - 🌱 I’m currently learning :- Bigdata, Hadoop
